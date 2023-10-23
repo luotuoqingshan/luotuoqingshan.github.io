@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: #"academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+excerpt: #"About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -21,7 +21,7 @@ I'm broadly interested in graph algorithms, network science, matrix computations
 When not doing research, I enjoy rock climbing, running and hiking. I used to do some competitive programming([codeforces](https://codeforces.com/profile/yyyyyyffffff)).
 
 ## Publications
-$^\dag$ stands for equal contribution and $^\ddag$ refers to alphabetical order.
+$^*$ stands for equal contribution and $^\ddag$ refers to alphabetical order.
 
 ### Preprints
 - Densest Subhypergraph: Negative Supermodular Functions and Strongly Localized Methods.  
@@ -38,17 +38,17 @@ $^\dag$ stands for equal contribution and $^\ddag$ refers to alphabetical order.
   [[paper](https://proceedings.mlr.press/v202/huang23l/huang23l.pdf)|[code](https://github.com/luotuoqingshan/mu-conductance-low-rank-sdp)|[video](https://icml.cc/virtual/2023/poster/24411)]
 
 - A flexible pagerank-based graph embedding framework closely related to spectral eigenvector embeddings.  
-  Disha Shur $^\dag$, **Yufan Huang** $^\dag$, and David F. Gleich.  
+  Disha Shur $^*$, **Yufan Huang** $^*$, and David F. Gleich.  
   Journal of Applied and Computational Topology, 2023.  
   [[paper](https://link.springer.com/article/10.1007/s41468-023-00129-6)|[code](https://github.com/dishashur/log-pagerank)]
 
 - Hardness of Graph-Structured Algebraic and Symbolic Problems.  
-  Jingbang Chen, Yu Gao, **Yufan Huang** $^\ddag$, Richard Peng, and Runze Wang.  
+  Jingbang Chen, Yu Gao, **Yufan Huang**, Richard Peng, and Runze Wang.  
   Algorithms and Data Structures Symposium, WADS 2023.  
   [[paper](https://link.springer.com/chapter/10.1007/978-3-031-38906-1_16)]   
 
 - Continual Learning for Text Classification with Information Disentanglement Based Regularization.  
-  **Yufan Huang** $^\dag$, Yanzhe Zhang $^\dag$, Jiaao Chen, Xuezhi Wang, Diyi Yang.
+  **Yufan Huang** $^*$, Yanzhe Zhang $^*$, Jiaao Chen, Xuezhi Wang, Diyi Yang.
   North American Chapter of the Association for Computational Linguistics, NAACL 2021.  
   [[paper](https://aclanthology.org/2021.naacl-main.218/)|[code](https://github.com/SALT-NLP/IDBR)|[video](https://github.com/SALT-NLP/IDBR)]
 

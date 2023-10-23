@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yufan Huang"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Yufan Huang"
 description              : &description "PhD at Purdue"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Yufan Huang"
-  avatar           : "profile.png"
+  avatar           : "yufan.jpg"
   bio              : "PhD student at Purdue"
   location         : "West Lafayette, IN, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=q_tAreQAAAAJ&hl=en"
   email            : "huan1754@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"

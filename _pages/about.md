@@ -33,12 +33,12 @@ $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 - Theoretical bounds on the network community profile from low-rank semi-definite programming.  
   **Yufan Huang**, C. Seshadhri, and David F. Gleich.  
   Proceedings of the 40th International Conference on Machine Learning, ICML 2023.   
-  [[paper](https://proceedings.mlr.press/v202/huang23l/huang23l.pdf)|[code](https://github.com/luotuoqingshan/mu-conductance-low-rank-sdp)|[video](https://icml.cc/virtual/2023/poster/24411)]
+  [[paper](https://proceedings.mlr.press/v202/huang23l/huang23l.pdf) | [code](https://github.com/luotuoqingshan/mu-conductance-low-rank-sdp) | [video](https://icml.cc/virtual/2023/poster/24411)]
 
 - A flexible pagerank-based graph embedding framework closely related to spectral eigenvector embeddings.  
   Disha Shur $$^*$$, **Yufan Huang** $$^*$$, and David F. Gleich.  
   Journal of Applied and Computational Topology, 2023.  
-  [[paper](https://link.springer.com/article/10.1007/s41468-023-00129-6)|[code](https://github.com/dishashur/log-pagerank)]
+  [[paper](https://link.springer.com/article/10.1007/s41468-023-00129-6) | [code](https://github.com/dishashur/log-pagerank)]
 
 - Hardness of Graph-Structured Algebraic and Symbolic Problems.  
   Jingbang Chen, Yu Gao, ***Yufan Huang***, Richard Peng, and Runze Wang.  
@@ -48,7 +48,7 @@ $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 - Continual Learning for Text Classification with Information Disentanglement Based Regularization.  
   **Yufan Huang** $$^*$$, Yanzhe Zhang $$^*$$, Jiaao Chen, Xuezhi Wang, Diyi Yang.
   North American Chapter of the Association for Computational Linguistics, NAACL 2021.  
-  [[paper](https://aclanthology.org/2021.naacl-main.218/)|[code](https://github.com/SALT-NLP/IDBR)|[video](https://github.com/SALT-NLP/IDBR)]
+  [[paper](https://aclanthology.org/2021.naacl-main.218/) | [code](https://github.com/SALT-NLP/IDBR) | [video](https://github.com/SALT-NLP/IDBR)]
 
 # Teaching
 

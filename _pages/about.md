@@ -19,7 +19,7 @@ I'm broadly interested in graph algorithms, network science, matrix computations
 When not doing research, I enjoy rock climbing, running and hiking. I used to do some competitive programming([codeforces](https://codeforces.com/profile/yyyyyyffffff)).
 
 # Publications
-$$^*$$ stands for equal contribution and $$^\dag$$ refers to alphabetical order.
+$$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 
 ## Preprints
 - Densest Subhypergraph: Negative Supermodular Functions and Strongly Localized Methods.  
@@ -41,7 +41,7 @@ $$^*$$ stands for equal contribution and $$^\dag$$ refers to alphabetical order.
   [[paper](https://link.springer.com/article/10.1007/s41468-023-00129-6)|[code](https://github.com/dishashur/log-pagerank)]
 
 - Hardness of Graph-Structured Algebraic and Symbolic Problems.  
-  Jingbang Chen, Yu Gao, **Yufan Huang** $$^\dag$$, Richard Peng, and Runze Wang.  
+  Jingbang Chen, Yu Gao, ***Yufan Huang***, Richard Peng, and Runze Wang.  
   Algorithms and Data Structures Symposium, WADS 2023.  
   [[paper](https://link.springer.com/chapter/10.1007/978-3-031-38906-1_16)]   
 

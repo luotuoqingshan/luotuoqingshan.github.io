@@ -36,7 +36,7 @@ $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
   [[paper](https://proceedings.mlr.press/v202/huang23l/huang23l.pdf) | [code](https://github.com/luotuoqingshan/mu-conductance-low-rank-sdp) | [video](https://icml.cc/virtual/2023/poster/24411)]
 
 - A flexible pagerank-based graph embedding framework closely related to spectral eigenvector embeddings.  
-  Disha Shur $$^*$$, **Yufan Huang** $$^*$$, and David F. Gleich.  
+  Disha Shur$$^*$$, **Yufan Huang**$$^*$$, and David F. Gleich.  
   Journal of Applied and Computational Topology, 2023.  
   [[paper](https://link.springer.com/article/10.1007/s41468-023-00129-6) | [code](https://github.com/dishashur/log-pagerank)]
 
@@ -46,7 +46,7 @@ $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
   [[paper](https://link.springer.com/chapter/10.1007/978-3-031-38906-1_16)]   
 
 - Continual Learning for Text Classification with Information Disentanglement Based Regularization.  
-  **Yufan Huang** $$^*$$, Yanzhe Zhang $$^*$$, Jiaao Chen, Xuezhi Wang, Diyi Yang.
+  **Yufan Huang**$$^*$$, Yanzhe Zhang$$^*$$, Jiaao Chen, Xuezhi Wang, Diyi Yang.
   North American Chapter of the Association for Computational Linguistics, NAACL 2021.  
   [[paper](https://aclanthology.org/2021.naacl-main.218/) | [code](https://github.com/SALT-NLP/IDBR) | [video](https://github.com/SALT-NLP/IDBR)]
 

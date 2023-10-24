@@ -23,7 +23,8 @@ $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 
 ## Preprints
 - Densest Subhypergraph: Negative Supermodular Functions and Strongly Localized Methods.  
-  **Yufan Huang**, David F. Gleich, and Nate Veldt.  
+  **Yufan Huang**, David F. Gleich, and Nate Veldt.   
+  [[paper](https://arxiv.org/abs/2310.13792) | [code](https://github.com/luotuoqingshan/local-DHSG)]
 
 - A Cheeger Inequality for Size-Specific Conductance.   
   **Yufan Huang**, David F. Gleich.  

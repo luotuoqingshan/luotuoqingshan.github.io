@@ -22,15 +22,16 @@ When not doing research, I enjoy rock climbing, running and hiking. I used to do
 $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 
 ## Preprints
-- Densest Subhypergraph: Negative Supermodular Functions and Strongly Localized Methods.  
-  **Yufan Huang**, David F. Gleich, and Nate Veldt.   
-  [[paper](https://arxiv.org/abs/2310.13792) | [code](https://github.com/luotuoqingshan/local-DHSG)]
-
 - A Cheeger Inequality for Size-Specific Conductance.   
   **Yufan Huang**, David F. Gleich.  
   [[paper](https://arxiv.org/abs/2303.11452)]
 
 ## Scholarly Publications
+- Densest Subhypergraph: Negative Supermodular Functions and Strongly Localized Methods.  
+  **Yufan Huang**, David F. Gleich, and Nate Veldt.   
+  Proceedings of the ACM Web Conference, WWW 2024.
+  [[paper](https://arxiv.org/abs/2310.13792) | [code](https://github.com/luotuoqingshan/local-DHSG)]
+
 - Theoretical bounds on the network community profile from low-rank semi-definite programming.  
   **Yufan Huang**, C. Seshadhri, and David F. Gleich.  
   Proceedings of the 40th International Conference on Machine Learning, ICML 2023.   

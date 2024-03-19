@@ -30,7 +30,7 @@ $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 - Densest Subhypergraph: Negative Supermodular Functions and Strongly Localized Methods.  
   **Yufan Huang**, David F. Gleich, and Nate Veldt.   
   Proceedings of the ACM Web Conference, WWW 2024.
-  [[paper](https://arxiv.org/abs/2310.13792) | [code](https://github.com/luotuoqingshan/local-DHSG)|[video](https://www.youtube.com/watch?v=3uEkoZwA2kM)] 
+  [[paper](https://arxiv.org/abs/2310.13792) | [code](https://github.com/luotuoqingshan/local-DHSG)| [video](https://www.youtube.com/watch?v=3uEkoZwA2kM)] 
 
 - Theoretical bounds on the network community profile from low-rank semi-definite programming.  
   **Yufan Huang**, C. Seshadhri, and David F. Gleich.  

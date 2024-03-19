@@ -30,12 +30,12 @@ $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 - Densest Subhypergraph: Negative Supermodular Functions and Strongly Localized Methods.  
   **Yufan Huang**, David F. Gleich, and Nate Veldt.   
   Proceedings of the ACM Web Conference, WWW 2024.
-  [[paper](https://arxiv.org/abs/2310.13792) | [code](https://github.com/luotuoqingshan/local-DHSG)]
+  [[paper](https://arxiv.org/abs/2310.13792) | [code](https://github.com/luotuoqingshan/local-DHSG)|[video](https://www.youtube.com/watch?v=3uEkoZwA2kM)] 
 
 - Theoretical bounds on the network community profile from low-rank semi-definite programming.  
   **Yufan Huang**, C. Seshadhri, and David F. Gleich.  
   Proceedings of the 40th International Conference on Machine Learning, ICML 2023.   
-  [[paper](https://proceedings.mlr.press/v202/huang23l/huang23l.pdf) | [code](https://github.com/luotuoqingshan/mu-conductance-low-rank-sdp) | [video](https://icml.cc/virtual/2023/poster/24411)]
+  [[paper](https://proceedings.mlr.press/v202/huang23l/huang23l.pdf) | [code](https://github.com/luotuoqingshan/mu-conductance-low-rank-sdp) | [video](https://www.youtube.com/watch?v=xd5NYjYWMag)]
 
 - A flexible pagerank-based graph embedding framework closely related to spectral eigenvector embeddings.  
   Disha Shur$$^*$$, **Yufan Huang**$$^*$$, and David F. Gleich.  
@@ -50,7 +50,7 @@ $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 - Continual Learning for Text Classification with Information Disentanglement Based Regularization.  
   **Yufan Huang**$$^*$$, Yanzhe Zhang$$^*$$, Jiaao Chen, Xuezhi Wang, Diyi Yang.
   North American Chapter of the Association for Computational Linguistics, NAACL 2021.  
-  [[paper](https://aclanthology.org/2021.naacl-main.218/) | [code](https://github.com/SALT-NLP/IDBR) | [video](https://github.com/SALT-NLP/IDBR)]
+  [[paper](https://aclanthology.org/2021.naacl-main.218/) | [code](https://github.com/SALT-NLP/IDBR) | [video](https://aclanthology.org/2021.naacl-main.218.mp4)]
 
 # Teaching
 

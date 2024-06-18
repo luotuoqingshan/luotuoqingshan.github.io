@@ -22,6 +22,9 @@ When not doing research, I enjoy rock climbing, running and hiking. I used to do
 $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 
 ## Preprints
+- Suboptimality bounds for trace-bounded SDPs enable a faster and scalable low-rank SDP solver SDPLR+.  
+  **Yufan Huang**, David F. Gleich.
+  [[paper](https://arxiv.org/abs/2406.10407) | [code](https://github.com/luotuoqingshan/SDPLRPlus.jl)]
 - A Cheeger Inequality for Size-Specific Conductance.   
   **Yufan Huang**, David F. Gleich.  
   [[paper](https://arxiv.org/abs/2303.11452)]

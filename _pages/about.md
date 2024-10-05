@@ -22,20 +22,24 @@ When not doing research, I enjoy rock climbing, running and hiking. I used to do
 $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 
 ## Preprints
-- Faster single-source shortest paths with negative real weights via proper hop distance.  
-  ***Yufan Huang***, Peter Jin, Kent Quanrud.  
-  [[paper](https://arxiv.org/pdf/2407.04872v1)]
+
 - Suboptimality bounds for trace-bounded SDPs enable a faster and scalable low-rank SDP solver SDPLR+.  
   **Yufan Huang**, David F. Gleich.  
   [[paper](https://arxiv.org/abs/2406.10407) | [code](https://github.com/luotuoqingshan/SDPLRPlus.jl)]
+  
 - A Cheeger Inequality for Size-Specific Conductance.   
   **Yufan Huang**, David F. Gleich.  
   [[paper](https://arxiv.org/abs/2303.11452)]
 
 ## Scholarly Publications
+- Faster single-source shortest paths with negative real weights via proper hop distance.  
+  ***Yufan Huang***, Peter Jin, Kent Quanrud.  
+  The 36th ACM-SIAM Symposium on Discrete Algorithms (SODA 2025).  
+  [[paper](https://arxiv.org/pdf/2407.04872v1)]
+  
 - Densest Subhypergraph: Negative Supermodular Functions and Strongly Localized Methods.  
   **Yufan Huang**, David F. Gleich, and Nate Veldt.   
-  Proceedings of the ACM Web Conference, WWW 2024.
+  Proceedings of the ACM Web Conference, WWW 2024.  
   [[paper](https://arxiv.org/abs/2310.13792) | [code](https://github.com/luotuoqingshan/local-DHSG)| [video](https://www.youtube.com/watch?v=3uEkoZwA2kM)] 
 
 - Theoretical bounds on the network community profile from low-rank semi-definite programming.  

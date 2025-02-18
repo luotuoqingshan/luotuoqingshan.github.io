@@ -16,7 +16,7 @@ Before that I got my bachelor's degree from [Dalian University of Technology](ht
 
 I'm broadly interested in graph algorithms, network science, matrix computations.
 
-When not doing research, I enjoy rock climbing, running and hiking. I used to do some competitive programming([codeforces](https://codeforces.com/profile/yyyyyyffffff)).
+When not doing research, I enjoy rock climbing, running and hiking. 
 
 # Publications
 $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a 4th year PhD student in the computer science department of [Purdue University](https://www.cs.purdue.edu/).
+I'm a PhD candidate in the computer science department of [Purdue University](https://www.cs.purdue.edu/).
 I'm fortunate to be advised by [Prof. David F. Gleich](https://www.cs.purdue.edu/homes/dgleich/) and [Prof. Kent R. Quanrud](https://www.kentquanrud.com/). 
 Prior to coming to Purdue, I obtained my Master of Science degree in computer science from [Georgia Institute of Technology](https://www.cc.gatech.edu/),
 where I worked with [Prof. Richard Peng](https://www.cs.cmu.edu/~yangp/) and [Prof. Diyi Yang](https://cs.stanford.edu/~diyiy/).
@@ -22,6 +22,10 @@ When not doing research, I enjoy rock climbing, running and hiking.
 $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 
 ## Preprints
+
+- Faster negative length shortest paths by bootstrapping hop reducers.  
+  ***Yufan Huang***, Peter Jin, Kent Quanrud.  
+  [[paper](https://arxiv.org/pdf/2506.00428)]
 
 - Suboptimality bounds for trace-bounded SDPs enable a faster and scalable low-rank SDP solver SDPLR+.  
   **Yufan Huang**, David F. Gleich.  
@@ -73,5 +77,4 @@ $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 - CS4510: Automata and Complexity(Spring 2020, Fall 2020)
 - CS6515: Introduction to Graduate Algorithms(Summer 2020)
 - CS3510: Design and Analysis of Algorithms(Spring 2021)
-
 

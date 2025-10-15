@@ -23,10 +23,6 @@ $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
 
 ## Preprints
 
-- Faster negative length shortest paths by bootstrapping hop reducers.  
-  ***Yufan Huang***, Peter Jin, Kent Quanrud.  
-  [[paper](https://arxiv.org/pdf/2506.00428)]
-
 - Suboptimality bounds for trace-bounded SDPs enable a faster and scalable low-rank SDP solver SDPLR+.  
   **Yufan Huang**, David F. Gleich.  
   [[paper](https://arxiv.org/abs/2406.10407) | [code](https://github.com/luotuoqingshan/SDPLRPlus.jl)]
@@ -36,6 +32,12 @@ $$^*$$ stands for equal contribution and *italics* refers to alphabetical order.
   [[paper](https://arxiv.org/abs/2303.11452)]
 
 ## Scholarly Publications
+
+- Faster negative length shortest paths by bootstrapping hop reducers.  
+  ***Yufan Huang***, Peter Jin, Kent Quanrud.  
+  The 37th ACM-SIAM Symposium on Discrete Algorithms (SODA 2026).  
+  [[paper](https://arxiv.org/pdf/2506.00428)]
+  
 - Faster single-source shortest paths with negative real weights via proper hop distance.  
   ***Yufan Huang***, Peter Jin, Kent Quanrud.  
   The 36th ACM-SIAM Symposium on Discrete Algorithms (SODA 2025).  
